@@ -1,0 +1,10 @@
+.content{
+    padding: 20px;
+    margin: 5%;
+    border: solid;
+    border-color: blue;
+}
+.container{
+    border: dotted;
+    border-color: crimson;
+}
